@@ -1,0 +1,81 @@
+.fa-hat-cowboy-side {
+  font-size: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 50px;
+  width: 100%;
+}
+.header ul {
+  float: right;
+  margin: 30px;
+}
+.header ul li {
+  margin-right: 30px;
+  list-style: none;
+  display: inline;
+}
+.header ul li a {
+  text-decoration: none;
+  color: rgb(43, 44, 44);
+}
+
+.footer {
+  height: 50px;
+  width: 100%;
+}
+.footer .ab {
+  font-size: 70px;
+  font-family: "Great Vibes", cursive;
+  margin-left: 800px;
+  margin-top: 90px;
+}
+.footer ul {
+  float: right;
+  margin-right: 500px;
+}
+.footer ul li {
+  margin-right: 100px;
+  list-style: none;
+  display: inline;
+}
+.footer ul li a {
+  text-decoration: none;
+  color: rgb(43, 44, 44);
+}
+.footer .ca {
+  width: 400px;
+  height: 200px;
+  background-color: aqua;
+  position: absolute;
+}
+.footer .absolute {
+  position: absolute;
+  top: 800px;
+  left: 50px;
+  width: 400px;
+  height: 150px;
+  background-color: rgb(219, 212, 212);
+}
+.footer .absolute .sa {
+  font-size: 30px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.footer .absolute p {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.second {
+  margin-top: 1200px;
+  margin-left: 900px;
+  color: gray;
+}/*# sourceMappingURL=style.css.map */
